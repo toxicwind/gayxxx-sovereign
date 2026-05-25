@@ -1,9 +1,8 @@
-# GayXXX Sovereign NSFW Repository (Rebuilt)
+# GayXXX Sovereign (Rebuilt + Decompiled)
 
-**Import this URL into CloudStream (enable NSFW):**
+**CloudStream Import URL:**
 `https://raw.githubusercontent.com/toxicwind/gayxxx-sovereign/main/repo.json`
 
-This repository contains a fresh copy of all `.cs3` plugins from the original `Tuangayxx/GayXXX` repo.  
-No changes to the plugin code – only hosting.
+Full extraction report: [EXTRACTION_REPORT.md](./EXTRACTION_REPORT.md)
 
-To rebuild from source again, run `full_rebuild_gayxxx_sovereign.sh` (included in the repo root).
+Built automatically on Mon May 25 12:14:01 AM MDT 2026.

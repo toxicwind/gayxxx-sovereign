@@ -1,6 +1,6 @@
 {
-  "name": "GayXXX Sovereign NSFW Repository (Rebuilt)",
-  "description": "Freshly downloaded plugins from the original GayXXX repo. All .cs3 hosted here.",
+  "name": "GayXXX Sovereign NSFW Repository (Rebuilt + Extraction Report)",
+  "description": "Fresh plugins from Tuangayxx/GayXXX, decompiled & analysed.",
   "manifestVersion": 1,
   "pluginLists": [
     "https://raw.githubusercontent.com/toxicwind/gayxxx-sovereign/main/plugins.json"
