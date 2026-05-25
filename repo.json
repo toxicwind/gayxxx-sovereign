@@ -1,0 +1,8 @@
+{
+  "name": "GayXXX Sovereign NSFW Repository",
+  "description": "Clean, optimized CloudStream repo.json manifest. Points to proven public plugins.json. Enable NSFW toggle in app. Matches latest pre-release parsing expectations.",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Tuangayxx/GayXXX/builds/plugins.json"
+  ]
+}
