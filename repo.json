@@ -1,8 +1,8 @@
 {
-  "name": "GayXXX Sovereign NSFW Repository",
-  "description": "Clean, optimized CloudStream repo.json manifest. Points to proven public plugins.json. Enable NSFW toggle in app. Matches latest pre-release parsing expectations.",
+  "name": "GayXXX Sovereign NSFW Repository (Rebuilt)",
+  "description": "Freshly downloaded plugins from the original GayXXX repo. All .cs3 hosted here.",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Tuangayxx/GayXXX/builds/plugins.json"
+    "https://raw.githubusercontent.com/toxicwind/gayxxx-sovereign/main/plugins.json"
   ]
 }
